@@ -42,7 +42,7 @@ States such as Texas, Ohio, Pennsylvania, Illinois and North Carolina contribute
 Some high-sales orders still generate losses because excessive discounts eliminate profit margins.
 ## Tools
 - Google Colab
-- Google Colab
+- Power BI
 ## Dataset
 Sample Superstore Dataset
 Main features include:
